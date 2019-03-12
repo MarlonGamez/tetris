@@ -1,5 +1,5 @@
-package main
+package tetris_client
 
 func main() {
-	
+
 }
